@@ -9,6 +9,7 @@ build/
 .vscode/
 .fancode/
 .claude/
+.pytest_cache/
 FANCODE.md
 
 # Playwright snapshot leaks

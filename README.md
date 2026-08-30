@@ -2,6 +2,8 @@
 
 FanCode 是一个运行在终端中的 AI 编程助手。它通过 Anthropic、OpenAI 或兼容 OpenAI 协议的模型，为代码阅读、修改、调试、规划和项目协作提供交互式支持。
 
+![FanCode 终端界面](img/image.png)
+
 ## 功能特性
 
 - 终端交互式 TUI，支持流式输出、思考状态和工具调用展示
@@ -190,4 +192,3 @@ fancode/
 └── worktree/       # Git Worktree
 tests/              # 测试
 ```
-
